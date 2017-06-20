@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lynxpool",
+  "name": "LynxPool",
+  "description": "Addon for Lynx client",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Notifly"],
+  "credits": "Lynx Dev Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
