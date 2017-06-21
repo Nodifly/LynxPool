@@ -9,3 +9,4 @@ Moderating tool
 - Make easier to view previous punishments
 - Bypass need to use deny feature
 - Add support for hacker catching features
+- When getting new report, if offline or in lobby, it goes to next report
